@@ -1,0 +1,6 @@
+14 March
+
+- git branches
+- continue ex1.ipynb
+- Abstract Database
+- more astropy exercises
